@@ -1315,7 +1315,7 @@ html[xmlns] .flexslider .slides {
     text-align: center; }
 
 .navbar-andross {
-  border-bottom: 2px solid #999;
+  border-bottom: 2px solid #24203e;
   border-radius: 0;
   min-height: 52px;
   background: #ffffff;
@@ -1414,7 +1414,7 @@ html[xmlns] .flexslider .slides {
     display: none;
     opacity: 0; } }
 .navbar-andross-bottom {
-  background: #999;
+  background: #24203e;
   color: #fff;
   padding: 0;
   margin: 0;
@@ -2356,7 +2356,7 @@ table tr, table td {
   margin: auto; }
 
 .footer {
-  background: #989898;
+  background: #24203d;
   color: #5d9bd3;
   padding: 2rem;
   text-align: center;
@@ -2607,7 +2607,7 @@ form select {
     color: #fff; }
 
 .newsletter {
-  background: #919191; }
+  background: #1e1b34; }
 
 #side-logo {
   width: 90%;

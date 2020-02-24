@@ -9,6 +9,8 @@ custom_links:
     url: #
   - title: Free Strategy Call
     url: /contact/
+  - title: Mission
+    url: /mission/
 client:
   name: Thurayah McBride
   title:
@@ -84,7 +86,7 @@ images:
   post_cover: /img/cover.jpg
 site_colors:
   brand_color: '#eb1c24'
-  theme_color: '#999'
+  theme_color: '#24203e'
   theme_text_color: '#5d9bd3'
   main_body_color: '#ffffff'
   main_body_text_color: '#353535'
