@@ -2609,6 +2609,12 @@ form select {
 .newsletter {
   background: #1e1b34; }
 
+.mobile {
+  display: none; }
+
+@media (max-width: 767px) {
+  .mobile {
+    display: block; } }
 #side-logo {
   width: 90%;
   margin: 0 auto; }
