@@ -1,12 +1,12 @@
 ---
 layout: recruiting
 title: Houston Careers
-permalink: /join-our-team/
+permalink: /join-us/
 ---
 
 <div class="recruiting-page">
-<h1 class="join-us">Growing Real Estate Teams in Houston</h1>
-<h5 class="join-us-subtitle">How would your life change if you consistently earned $80,000, $100,000, or $150,000 or more as a full-time real estate agent?</h5>
+<!-- <h1 class="join-us">Growing Real Estate Teams in Houston</h1> -->
+<h3 class="join-us-subtitle">How would your life change if you consistently earned $80,000, $100,000, or $150,000 or more as a full-time real estate agent?</h3>
 <div class="recruiting-photo">
 <span class="client-image-container">
 <img src="/img/headshot.jpg" alt="{{site.data.settings.client.name}}" class="client-image"/>
