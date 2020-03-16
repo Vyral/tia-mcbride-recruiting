@@ -18,6 +18,8 @@ youtube_code: 'https://youtu.be/D8SjjFkki9I'
 
 {% include youtube.html %}
 
+<p style="text-align: center;"><em>I’m discussing the differences between joining a real estate team or working as a solo agent.</em></p>
+
 When I first got into the real estate business, I had no idea there were massive teams or what the pros and cons were of being part of a team. When I first heard agents were selling between 100 and 500 houses a year, I truly thought they were selling all those homes by themselves\! Of course, they were working on a team with a lot of help. Today I’m going to discuss the differences of joining a team versus working as a solo real estate agent.
 
 **Cited below for your convenience are timestamps that will direct you to various points in the video. Feel free to watch the full message or use these timestamps to browse specific topics at your leisure:&nbsp;**
