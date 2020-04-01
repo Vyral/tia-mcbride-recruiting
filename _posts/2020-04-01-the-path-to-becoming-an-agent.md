@@ -21,6 +21,8 @@ youtube_code: 'https://youtu.be/C5V1ZTEP_TI'
 
 {% include youtube.html %}
 
+<p style="text-align: center;"><em>Today I’ll discuss how to get your real estate license and start your new career.</em></p>
+
 How do you even become a real estate agent?
 
 In the state of Texas, we have the Champion School of Real Estate along with other schools and online courses. I normally recommend going to in-person classes, though given the times, you might need to pursue an online course.
