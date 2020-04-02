@@ -16,7 +16,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/how-to-begin-your-career-as-a-real-estate-agent-yt.jpg
-youtube_code: 'https://youtu.be/C5V1ZTEP_TI'
+youtube_code: 'https://youtu.be/On--5pRKoJY'
 ---
 
 {% include youtube.html %}
