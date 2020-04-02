@@ -31,7 +31,7 @@ Being able to meet with other real estate agents who have been in the industry f
 
 **After you finish your classes, you’ll send your information to TREC, the Texas Real Estate Commissioner,** where you’ll go in to have your fingerprints taken and do an FBI background check.
 
-Once that’s been taken care of and you’ve paid your application fees, **you can then join a real estate board that operates in your city.** My board is the HAR or the Houston Association of Realtors, but there are also boards in San Antonio and Dallas.
+Once that’s been taken care of and you’ve paid your application fees, **you can then join a real estate board that operates in your city.** My board is the HAR, or the Houston Association of Realtors, but there are also boards in San Antonio and Dallas.
 
 {% include pullquote.html %}
 
@@ -39,7 +39,7 @@ Be sure to have some money saved up before you enter the business. To join the H
 
 Especially when you’re new, **your broker can make or break your success;** you need guidance, training, and someone to support you while you undergo your first few transactions and to help you handle ongoing issues and liabilities that crop up in our line of work. Be sure to interview a few brokerages and narrow your best options down before choosing one.
 
-Many agents think that once they’ve gotten their licenses, they’re done with classes. However that’s not true; since our industry changes so much, you’ll need to make sure that you’re up to date with the latest developments in real estate and the laws that affect the field. That’s why **you’ll need to go back for what are called CE classes (continuing education),** so be sure to block out the times of year where you’ll need to take those courses.
+Many agents think that once they receive their licenses, they’re done with classes. However, that’s not true; since our industry changes so much, you’ll need to make sure that you’re up to date with the latest developments in real estate and the laws that affect the field. That’s why **you’ll need to go back for what are called CE classes (continuing education),** so be sure to block out the times of year where you’ll need to take those courses.
 
 Next time, I’ll discuss another key aspect of starting your real estate career: your brand. In real estate, you need to have a recognizable, memorable brand.
 
