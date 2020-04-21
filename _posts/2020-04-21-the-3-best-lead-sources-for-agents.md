@@ -21,7 +21,7 @@ youtube_code: 1El5BizzbLY
 
 {% include youtube.html %}
 
-Your sphere of influence, open houses, and social media are three great ways to generate leads. Here’s how to use each one effectively.
+<p style="text-align: center;"><em>Your sphere of influence, open houses, and social media are three great ways to generate leads. Here’s how to use each one effectively.</em></p>
 
 The No. 1 lead source I recommend for agents is also the most cost-effective one: your trusty SOI (Sphere of Influence). Tapping into your network of people who know you, like you, and trust you is the best way to generate leads. These may be the people you attend religious services with, former teachers you connected with throughout your schooling, or the most obvious—your family and friends.&nbsp;
 
@@ -34,7 +34,5 @@ The No. 1 lead source I recommend for agents is also the most cost-effective one
 Of course, then there’s social media. If you have a strong, consistent social media presence across multiple platforms (LinkedIn, Facebook, YouTube, etc.), the people whose feed you appear on will begin to feel like they know you and will begin to trust your brand. These are people with whom you’ve already connected somehow, otherwise you wouldn’t be part of their social media network. By producing solid content can be a great way to take those simple connections even further.&nbsp;
 
 If you have additional questions about lead sources or any other real estate-related topics, don’t hesitate to reach out by phone or email. I’m always happy to help.
-
-&nbsp;
 
 {% include full-post-cta.html %}
