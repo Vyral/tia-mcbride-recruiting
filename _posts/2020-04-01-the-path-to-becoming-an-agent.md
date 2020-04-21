@@ -8,7 +8,7 @@ excerpt: >-
   Today I’ll discuss how to get your real estate license and start your new
   career.
 enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Tia+McBride/The+Path+to+Becoming+an+Agent.mp4
+  https://vyralmarketing.s3.amazonaws.com/Tia+McBride/2020/Houston+Area+Real+Estate-+How+to+Get+Your+Real+Estate+License.mp4
 pullquote: >-
   Be sure to interview a few brokerages and narrow your best options down before
   choosing one.
@@ -16,7 +16,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/how-to-begin-your-career-as-a-real-estate-agent-yt.jpg
-youtube_code: 'https://youtu.be/On--5pRKoJY'
+youtube_code: 'https://youtu.be/TeyQ013I40A'
 ---
 
 {% include youtube.html %}
