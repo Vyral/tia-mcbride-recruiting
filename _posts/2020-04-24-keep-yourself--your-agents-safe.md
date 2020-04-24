@@ -21,7 +21,7 @@ youtube_code: SWsXPsSbD18
 
 {% include youtube.html %}
 
-Does your team or brokerage have safety procedures in place to keep your agents safe as they go out on appointments?
+<p style="text-align: center;"><em>Does your team or brokerage have safety procedures in place to keep your agents safe as they go out on appointments?</em></p>
 
 Does your brokerage have safety measures in place to protect your agents as they go out to meet potential clients? It’s a crazy world out there, so you never know what can happen. Here are a few tips that we use to stay safe when meeting with clients we don’t know.
 
