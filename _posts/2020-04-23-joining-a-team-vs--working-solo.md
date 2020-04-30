@@ -7,13 +7,13 @@ excerpt: >-
   I’m discussing the differences between joining a real estate team or working
   as a solo agent.
 enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Tia+McBride/2020/Houston+Area+Real+Estate-+team+vs+solo.mp4
+  https://vyralmarketing.s3.amazonaws.com/Tia+McBride/2020/Houston+Area+Real+Estate-+Joining+a+Team+or+Being+a+Solo+Agent.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/mcbride-youtube.jpg
-youtube_code: 'https://youtu.be/PhQNTmGdRro'
+youtube_code: 'https://youtu.be/RhJVO2NPa_0'
 ---
 
 {% include youtube.html %}
